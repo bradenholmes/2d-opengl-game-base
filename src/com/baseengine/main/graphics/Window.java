@@ -52,7 +52,7 @@ public class Window
 	private Window() {
 		this.width = 1920;
 		this.height = 1080;
-		this.title = "WINDOW NAME";
+		this.title = "WINDOW";
 	}
 	
 	public static Window get() {
